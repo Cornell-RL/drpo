@@ -1,2 +1,3 @@
-# drpo
-Dateset Reset Policy Optimization
+# Dateset Reset Policy Optimization (DR-PO)
+Fork of [Learning from Feedback Details](https://github.com/vwxyzjn/summarize_from_feedback_details/tree/62c37d63c212c55bde52833611eb642a95facb5c) for DR-PO and TL;DR.
+More information coming soon...
